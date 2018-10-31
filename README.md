@@ -1,7 +1,8 @@
 # Title
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+Everyday an immeasurable quantity of food products is in front of our eyes. Every product is different and when making conscious healthy changes, the choices can be confusing. The following datasets contain a) different cooking recipes from the internet and b) a food product database originally from France that includes all the macronutrients, micronutrients and caloric descriptions. We will extract traditional cooking recipes from different countries and cross-related them to the different products of the recipes found on the food product database with the intention of characterizing every recipe by its nutritious content. The nutritious content is measured by a nutritious score (NS) and its formula and assumptions are provided by the food product dataset and is object of study for possible improvement. The objective is to propose a healthier version of any available traditional recipe provided its ingredients are found on the database and nutritiously characterized by a NS.
 
 # Research questions
 A list of research questions you would like to address during the project. 
