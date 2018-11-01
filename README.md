@@ -22,4 +22,5 @@ For Nov 17th: Select wanted recipes from these countries: Take the most popular 
 For Nov 25th: Merge extracted informations and precise with clarity the goal of the project, any details to be added to the research questions and the milestone 2 delivery.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+Is our description of the project clear enough?
+Any suggestions or possible additional work we could add to the project to make it more robust?
