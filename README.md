@@ -10,7 +10,7 @@ Everyday an immeasurable quantity of food products is in front of our eyes. Ever
 - How can we relate dishes popularity and healthiness of the ingredients? Are there any world regions where the most popular recipes go hand in hand with a healthy diet?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+As eplained above, we will both be usin the Open Food Facts Dataset containing nutritionalo information about tens of thousands of supermarket products (majoity from France), as well as the Stanford cooking recipe dataset, linking recipes to home countries. The cooking recipe dataset will be used to detemine which tper of ingredients and cooking styles are used in the cuisine of different countries. In order to deteermine the "healthiness" of the recipes,we will need the data from theother dataset.  The open food fact dataset will be treated by parsing it knowing the delimeters are tabs and not commas, and by complementing any missing nutritional information about ccommon products with data scraps either from Google, or from specialized websites. 
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
