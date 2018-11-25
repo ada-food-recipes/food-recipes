@@ -3,7 +3,7 @@ Impact of traditional dishes on health
 
 *   [Selecting a project (milestone 1)](#milestone_1)
     *   [Abstract](#abstract)
-    *   [Research Questions](#questions)
+    *   [Research Question](#question)
     *   [Datasets](#datasets)
 *   [Data collection and description (milestone 2)](#milestone_2)
 
@@ -16,11 +16,9 @@ Impact of traditional dishes on health
 
 In our present day society, the amount of variety we are offered when buying food products is unfathomable, and it can become difficult to make conscious and healthy changes to our regime. The first step towards a better lifestyle is acknowledging the impact alimentation has on our health and our project is centered towards this goal. The datasets we elected to work with contain a) a set of cooking recipes from around the world and b) a food product database originally from France, that contains information about all of the products' macro and micro nutrients, and their caloric descriptions. In our project, we will extract traditional cooking recipes from different countries and link them to the recipes' ingredients encountered in the food product database. Our intention is to match every recipe with its nutritious content. The nutritious content is currently measured by a nutritious score (NS), with the equation provided in the food product dataset, and we will explore ways to improve it in given recipes. We will then try to group cuisines from around the world in function of the ingredients used and the cooking styles. We will also try to compare nutritional habits with population health statistics from countries around the world, such as life expectancy, obesity, diabetes, etc, to study potential correlations. The objective could then be to recommend the use of healthier alternatives to the traditional recipes, based on the computed nutritious score.  
 
-<h3 id="questions">Research questions</h3>
+<h3 id="question">Research question</h3>
 
-- What is the impact of each product on the dishes we eat everyday and how can we preserve our food traditions without compromising our health?
-- How can we relate dishes' popularity to the healthiness of their ingredients? Are there any world regions where the most popular recipes go hand in hand with a healthy diet?
-- How do eating habits affect a population's health?
+-  How significant is the impact of the different recipes around the world on modern diseases?
 
 <h3 id="datasets">Datasets</h3>
 
