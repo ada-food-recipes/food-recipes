@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*.sublime-project
+*.DS_Store
+data/
