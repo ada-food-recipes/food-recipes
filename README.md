@@ -1,4 +1,4 @@
-Impact of traditional dishes on health
+Scraping popular online cooking recipes to measure the impact of diet on modern diseases around the world
 ================
 
 *   [Selecting a project (milestone 1)](#milestone_1)
