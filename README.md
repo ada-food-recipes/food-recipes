@@ -43,7 +43,7 @@ Similarly as before, our objectives for the third milestone remain to be able to
 
 <h2 id="milestone_3">Final Analysis (milestone 3)</h2>
 
-The final analysis can be found in the report and the Final report Jupyter notebook, linking the computed NutriScore of each recipe within world regions with the World Health Organization data about food related diseases. The technical details  of the different types of algortihms and conducted analysis (numerical, semantic, network), can be found in the updated notebook `Final_notebook.html` (this version allows us to see the Folium map showing the NutriScore in the output compared to the original Jupyter Notebook `Final_notebook.ipynb`. 
+The final analysis can be found in the report and the Final Jupyter notebook, linking the computed NutriScore of each recipe within world regions with the World Health Organization data about food related diseases. The technical details  of the different types of algortihms and conducted analysis (numerical, semantic, network), can be found in the updated notebook `Final_notebook.html` (this version allows us to see the Folium map showing the NutriScore in the output compared to the original Jupyter Notebook `Final_notebook.ipynb`). 
 
 * * *
 
