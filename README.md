@@ -43,14 +43,14 @@ Similarly as before, our objectives for the third milestone remain to be able to
 
 <h2 id="milestone_3">Final Analysis (milestone 3)</h2>
 
-The final analysis can be found in the report, putting in relation the computed NutriScore of each recipe within wolrd regions with the World Health Organization data about food related diseases. The technical details can be found in the updated notebook `Final_notebook.html` (this version allows us to see the Folium map showing the NutriScore in the output compared to the original Jupyter Notebook `Final_notebook.ipynb`.
+The final analysis can be found in the report and the Final report Jupyter notebook, linking the computed NutriScore of each recipe within world regions with the World Health Organization data about food related diseases. The technical details  of the different types of algortihms and conducted analysis (numerical, semantic, network), can be found in the updated notebook `Final_notebook.html` (this version allows us to see the Folium map showing the NutriScore in the output compared to the original Jupyter Notebook `Final_notebook.ipynb`. 
 
 * * *
 
 <h2 id="contributions">Contributions</h2>
 
-- Romain Caristan: Find and parse health datasets, analyze nutriscores with health data, Nutri Score Folium map, update README.
-- Manuel Faysse: Scrap allrecipes.com, apply some ML to the table to extract trends, writting report.
-- Rafael Rolli: Find correlations between health data and nutriments consumption, Canada case study, writting report.
+- Romain Caristan: Find and parse health datasets, analyze nutriscores with health data, Nutri Score Folium map, writing report.
+- Manuel Faysse: Build scrapbot to extract and clean data from website, try clustering algorithms on data, semantic similarity matrix of the ingredients.
+- Rafael Rolli: Find correlations between health data and nutriments consumption, Canada case study, writing report.
 
 Manuel will be our presenter for the poster presentation on January, 21 2019.
